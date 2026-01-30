@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import minf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-minf@esm/index.mjs';
+import minf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-minf@v0.1.0-esm/index.mjs';
 ```
 
 #### minf( x, y )
@@ -114,7 +114,7 @@ var v = minf( 4.2, 3.14 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import minf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-minf@esm/index.mjs';
+import minf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-minf@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
